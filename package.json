@@ -2,9 +2,9 @@
   "name": "filesystemtask",
   "version": "1.0.0",
   "description": "Node JS File System Task",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon script.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Surendran",
